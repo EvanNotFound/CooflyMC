@@ -10,3 +10,5 @@ CooflyMC所需文件，更新建议直接从`Release` 打包下载，直接替�
 CooflyMC 官方在线 3D 地图：[前往 Bluemap 地图](http://121.4.32.150:8100/)
 
 CooflyMC 官方在线轨道交通图：[前往 MTR 地图](http://121.4.32.150:8888/)
+
+想要加入 CooflyMC？ 申请加入 QQ 群 `891812632` 即可
