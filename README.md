@@ -10,9 +10,9 @@ CooflyMC所需文件，更新建议直接从`Releases` 打包下载，直接替�
 
 ### 2. 加入服务器指南
 
-**Minecraft 版本：**Java 1.17.1
+**Minecraft 版本:** Java 1.17.1
 
-**前置插件：**Fabric
+**前置插件:** Fabric
 
 **需配备本 Repo 的 mods 文件夹**
 
